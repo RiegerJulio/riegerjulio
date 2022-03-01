@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Studying Full Stack Developer at Trybe.</h3>
 
 <p align="center">
-<a href="https://riegerjulio.github.io><img align="center" src="https://github.com/RiegerJulio/riegerjulio/blob/main/folder-github.jpg"></a>
+<a href="https://riegerjulio.github.io><img align="center" src="https://github.com/RiegerJulio/riegerjulio/blob/main/folder-github.jpg">
 </p>
 
 <p><strong>My name is Rieger, I am 28 years old and I am from Rio de Janeiro - RJ.</strong>
